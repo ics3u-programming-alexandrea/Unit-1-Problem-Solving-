@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\AreaPerAlex\AreaPerAlex\bin\Debug\AreaPerAlex.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\AreaPerAlex\AreaPerAlex\bin\Debug\AreaPerAlex.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\AreaPerAlex\AreaPerAlex\bin\Debug\AreaPerAlex.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\AreaPerAlex\AreaPerAlex\obj\Debug\AreaPerAlex.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\AreaPerAlex\AreaPerAlex\obj\Debug\AreaPerAlex.frmAreaPer.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\AreaPerAlex\AreaPerAlex\obj\Debug\AreaPerAlex.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\AreaPerAlex\AreaPerAlex\obj\Debug\AreaPerAlex.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\AreaPerAlex\AreaPerAlex\obj\Debug\AreaPerAlex.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\AreaPerAlex\AreaPerAlex\obj\Debug\AreaPerAlex.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\AreaPerAlex\AreaPerAlex\obj\Debug\AreaPerAlex.pdb

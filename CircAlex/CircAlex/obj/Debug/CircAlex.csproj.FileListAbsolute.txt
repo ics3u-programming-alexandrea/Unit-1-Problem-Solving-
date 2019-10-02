@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\CircAlex\CircAlex\bin\Debug\CircAlex.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\CircAlex\CircAlex\bin\Debug\CircAlex.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\CircAlex\CircAlex\bin\Debug\CircAlex.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\CircAlex\CircAlex\obj\Debug\CircAlex.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\CircAlex\CircAlex\obj\Debug\CircAlex.frmCirc.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\CircAlex\CircAlex\obj\Debug\CircAlex.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\CircAlex\CircAlex\obj\Debug\CircAlex.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\CircAlex\CircAlex\obj\Debug\CircAlex.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\CircAlex\CircAlex\obj\Debug\CircAlex.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\CircAlex\CircAlex\obj\Debug\CircAlex.pdb

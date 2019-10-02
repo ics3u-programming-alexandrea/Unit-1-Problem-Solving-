@@ -1,0 +1,20 @@
+C:\Users\s465640\source\repos\PizzaCostAlex\PizzaCostAlex\bin\Debug\PizzaCostAlex.exe.config
+C:\Users\s465640\source\repos\PizzaCostAlex\PizzaCostAlex\bin\Debug\PizzaCostAlex.exe
+C:\Users\s465640\source\repos\PizzaCostAlex\PizzaCostAlex\bin\Debug\PizzaCostAlex.pdb
+C:\Users\s465640\source\repos\PizzaCostAlex\PizzaCostAlex\obj\Debug\PizzaCostAlex.csprojAssemblyReference.cache
+C:\Users\s465640\source\repos\PizzaCostAlex\PizzaCostAlex\obj\Debug\PizzaCostAlex.frmPizzaCost.resources
+C:\Users\s465640\source\repos\PizzaCostAlex\PizzaCostAlex\obj\Debug\PizzaCostAlex.Properties.Resources.resources
+C:\Users\s465640\source\repos\PizzaCostAlex\PizzaCostAlex\obj\Debug\PizzaCostAlex.csproj.GenerateResource.cache
+C:\Users\s465640\source\repos\PizzaCostAlex\PizzaCostAlex\obj\Debug\PizzaCostAlex.csproj.CoreCompileInputs.cache
+C:\Users\s465640\source\repos\PizzaCostAlex\PizzaCostAlex\obj\Debug\PizzaCostAlex.exe
+C:\Users\s465640\source\repos\PizzaCostAlex\PizzaCostAlex\obj\Debug\PizzaCostAlex.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\PizzaCostAlex\PizzaCostAlex\bin\Debug\PizzaCostAlex.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\PizzaCostAlex\PizzaCostAlex\bin\Debug\PizzaCostAlex.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\PizzaCostAlex\PizzaCostAlex\bin\Debug\PizzaCostAlex.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\PizzaCostAlex\PizzaCostAlex\obj\Debug\PizzaCostAlex.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\PizzaCostAlex\PizzaCostAlex\obj\Debug\PizzaCostAlex.frmPizzaCost.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\PizzaCostAlex\PizzaCostAlex\obj\Debug\PizzaCostAlex.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\PizzaCostAlex\PizzaCostAlex\obj\Debug\PizzaCostAlex.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\PizzaCostAlex\PizzaCostAlex\obj\Debug\PizzaCostAlex.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\PizzaCostAlex\PizzaCostAlex\obj\Debug\PizzaCostAlex.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\PizzaCostAlex\PizzaCostAlex\obj\Debug\PizzaCostAlex.pdb

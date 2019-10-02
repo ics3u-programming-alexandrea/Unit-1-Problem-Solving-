@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\MusiciansAlex\MusiciansAlex\bin\Debug\MusiciansAlex.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\MusiciansAlex\MusiciansAlex\bin\Debug\MusiciansAlex.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\MusiciansAlex\MusiciansAlex\bin\Debug\MusiciansAlex.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\MusiciansAlex\MusiciansAlex\obj\Debug\MusiciansAlex.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\MusiciansAlex\MusiciansAlex\obj\Debug\MusiciansAlex.MusicForm.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\MusiciansAlex\MusiciansAlex\obj\Debug\MusiciansAlex.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\MusiciansAlex\MusiciansAlex\obj\Debug\MusiciansAlex.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\MusiciansAlex\MusiciansAlex\obj\Debug\MusiciansAlex.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\MusiciansAlex\MusiciansAlex\obj\Debug\MusiciansAlex.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 1 (Problem Solving)\MusiciansAlex\MusiciansAlex\obj\Debug\MusiciansAlex.pdb
