@@ -30,8 +30,8 @@
         {
             this.mnuFile = new System.Windows.Forms.MenuStrip();
             this.mniFile = new System.Windows.Forms.ToolStripMenuItem();
-            this.lblInstructions = new System.Windows.Forms.Label();
             this.mniExit = new System.Windows.Forms.ToolStripMenuItem();
+            this.lblInstructions = new System.Windows.Forms.Label();
             this.txtRadius = new System.Windows.Forms.TextBox();
             this.btnCalculate = new System.Windows.Forms.Button();
             this.lblCirumference = new System.Windows.Forms.Label();
@@ -57,6 +57,13 @@
             this.mniFile.Size = new System.Drawing.Size(37, 20);
             this.mniFile.Text = "File";
             // 
+            // mniExit
+            // 
+            this.mniExit.Name = "mniExit";
+            this.mniExit.Size = new System.Drawing.Size(93, 22);
+            this.mniExit.Text = "Exit";
+            this.mniExit.Click += new System.EventHandler(this.ExitToolStripMenuItem_Click);
+            // 
             // lblInstructions
             // 
             this.lblInstructions.AutoSize = true;
@@ -69,13 +76,6 @@
             this.lblInstructions.TabIndex = 1;
             this.lblInstructions.Text = "Enter the radius of the circle:";
             this.lblInstructions.Click += new System.EventHandler(this.LblInstructions_Click);
-            // 
-            // mniExit
-            // 
-            this.mniExit.Name = "mniExit";
-            this.mniExit.Size = new System.Drawing.Size(180, 22);
-            this.mniExit.Text = "Exit";
-            this.mniExit.Click += new System.EventHandler(this.ExitToolStripMenuItem_Click);
             // 
             // txtRadius
             // 
@@ -94,6 +94,7 @@
             this.btnCalculate.TabIndex = 3;
             this.btnCalculate.Text = "Calculate";
             this.btnCalculate.UseVisualStyleBackColor = true;
+            this.btnCalculate.Click += new System.EventHandler(this.BtnCalculate_Click);
             // 
             // lblCirumference
             // 
@@ -112,7 +113,7 @@
             this.lblAnswer.AutoSize = true;
             this.lblAnswer.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.lblAnswer.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblAnswer.Location = new System.Drawing.Point(618, 323);
+            this.lblAnswer.Location = new System.Drawing.Point(536, 333);
             this.lblAnswer.Name = "lblAnswer";
             this.lblAnswer.Size = new System.Drawing.Size(43, 24);
             this.lblAnswer.TabIndex = 5;
